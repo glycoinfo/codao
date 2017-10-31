@@ -22,4 +22,6 @@
 
 **Comment**
 
-* 
+* using GGDonto classes what are related disease description.
+  * http://acgg.asia/db/diseases/ 
+* As a upper ontology, using NCIT classes.

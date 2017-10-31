@@ -1,0 +1,25 @@
+### v0.1
+
+**New classes**
+
+* Compound Disease Association 
+
+
+**Added Classes from external ontology**
+
+* association (sio:SIO_000897)
+* ‘Disease, Disorder or Finding’ (ncit:C7057)
+* Disease or Disorder (ncit:C2991)
+* Finding (ncit:C3367)
+* Disease Description (ggdsch:DiseaseDescription)
+* Clinical findings description (ggdsch:ClinicalFindingsDescription)
+
+
+**Added Property from external ontology**
+
+* ‘refers to’(sio:SIO_000628)
+
+
+**Comment**
+
+* 
